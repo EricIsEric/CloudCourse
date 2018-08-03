@@ -1,5 +1,6 @@
 package Thucydides.steps;
 
+
 import Thucydides.pages.BrowserObjectAndCommon2MethodPage;
 import Thucydides.pages.CloudLogInPage;
 import net.thucydides.core.annotations.Step;

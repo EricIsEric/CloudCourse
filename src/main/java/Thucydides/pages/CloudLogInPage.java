@@ -1,14 +1,11 @@
 package Thucydides.pages;
 
-/*import java.util.List;
-import java.util.ArrayList;*/
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 
 import net.thucydides.core.pages.PageObject;
-//import net.thucydides.core.pages.WebElementFacade;
 
 public class CloudLogInPage extends PageObject {
 	
