@@ -21,22 +21,22 @@ public class CloudLogInPage extends PageObject {
 	}
 	
 	public void clickLoginBtn() throws Exception {
-		find(By.xpath("//*[@id=\"root\"]/div/div[2]/div[2]/div/form/div[3]/div/div/button")).click();
+		find(By.xpath("//*[@id=\'root\']/div/div[2]/div[2]/div/form/div[3]/div/div/span/button")).click();
 		Thread.sleep(30000);
 	}
 	
 	public void clickLoginBtnThree() throws Exception {
-		find(By.xpath("//*[@id=\"root\"]/div/div[2]/div[2]/div/form/div[3]/div/div/button")).click();
+		find(By.xpath("//*[@id=\'root\']/div/div[2]/div[2]/div/form/div[3]/div/div/span/button")).click();
 		Thread.sleep(1700);
 	}
 	
 	public void clickLoginBtnFour() throws Exception {
-		find(By.xpath("//*[@id=\"root\"]/div/div[2]/div[2]/div/form/div[3]/div/div/button")).click();
+		find(By.xpath("//*[@id=\'root\']/div/div[2]/div[2]/div/form/div[3]/div/div/span/button")).click();
 		Thread.sleep(1700);
 	}
 	
 	public void clickLoginBtnFive() throws Exception {
-		find(By.xpath("//*[@id=\"root\"]/div/div[2]/div[2]/div/form/div[3]/div/div/button")).click();
+		find(By.xpath("//*[@id=\'root\']/div/div[2]/div[2]/div/form/div[3]/div/div/span/button")).click();
 		Thread.sleep(1700);
 	}
 	
